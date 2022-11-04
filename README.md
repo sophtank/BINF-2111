@@ -1,1 +1,2 @@
-# sophie's personal bioinformatics projects. linux based.
+# BINF 2111
+sophie's projects from BINF-2111 at UNC Charlotte.
