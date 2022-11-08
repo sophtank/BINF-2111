@@ -1,2 +1,4 @@
 # BINF 2111
-sophie's projects from BINF-2111 at UNC Charlotte.
+Sophie's projects from BINF-2111 at UNC Charlotte.
+Course description:
+"Introduction of fundamentals of programming for bioinformatics (sometimes called “scripting”) using current programming languages and paradigms.  Introduces both the language and the use of the language within a Unix environment, demonstrating how interpreted languages serve both as a useful tool for writing and testing programs interactively and as a powerful data analysis and processing tool for bioinformatics.  Hands-on computing labs in which students learn bioinformatics computing and programming are also included."
